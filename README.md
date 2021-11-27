@@ -12,9 +12,9 @@ My name is Francesco Ignazio Re and I am a 24 year-old student from Italy.
 
 -⚡ In my github repo you will find:
 
-* Projects on natural language processing related topics, from topic event detections to sentiment analysis.
-* Some of my previous works related to inferential statistical and generalized linear models.
-* Univeristy assignments, programming tasks and their deliverables.
+* Projects on natural language processing , from event detection to sentiment analysis.
+* Some of my previous works related to inferential statistics and generalized linear models.
+* University assignments, programming tasks and their deliverables.
 
 
 <!-- Tech Stack -->
