@@ -25,16 +25,11 @@ Credit goes to:
 
 ![](https://github.com/francescoignaziore/francescoignaziore/blob/main/mascotte.png)
 
-I, as a global cloud solution architect at Microsoft, am responsible for helping strategic customers and partners with Digital Transformation, Business Intelligence, Azure, Open Source, and Data Intelligence & Analytics etc. I am a trusted advisor to top Azure customers and help empower them to achieve more. 
+My name is Francesco Ignazio Re and I am a 24 year-old student from Italy. I am currently attending a master degree in Data Science at ETH Zürich. In my github repo you will find:
 
-* Diverse knowledge of providing effective business strategies, data modeling and business modeling
-* Extensive experience in a variety of industries including telecommunication, oil & gas, manufacturing, and e-commerce etc.
-* Good analytical skills and the ability to quickly assess data and investigate transaction data using statistical approach
-* Experience in predictive analytics, advanced statistical modelling, and data visualization for big data
-* Ability to translate research data into actionable information and offer an insight to business issues and opportunities
-* Strong problem solving and troubleshooting skills and highly attentive to detail
-* Ability to prioritize workload in an interrupt-driven environment with minimal or no supervision
-* Communicating with clients and internal team frequently and effectively to ensure that the objectives of the project are being fulfilled
+* Projects on natural language processing related topics, from topic event detections to sentiment analysis.
+* Some of my previous works related to inferential statistical and generalized linear models.
+* Univeristy assignments, programming tasks and their deliverables.
 
 **Specialties**: Business intelligence, data warehousing, big data, Hadoop, cloud, master data management, machine learning, solution architecture, ETL, data modeling, data migration, dashboarding, Kimball methodology, massively parallel processing, database architecture, data integration, performance tuning, SQL Server BI stack
 
