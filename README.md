@@ -3,7 +3,7 @@
 <!-- Introduction -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+,+my+name+is+Francesco;I+am+a+Data+Science+student+at+ETHZurich+.+.+.;Nice+to+meet+you...)](https://github.com/francescoignaziore/francescoignaziore/upload/main)
 
-![](https://github.com/francescoignaziore/francescoignaziore/blob/main/mascotte.png)
+![](https://github.com/francescoignaziore/francescoignaziore/blob/main/mascotte1.png)
 
 My name is Francesco Ignazio Re and I am a 24 year-old student from Italy.
 
