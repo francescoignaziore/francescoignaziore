@@ -18,7 +18,7 @@ My name is Francesco Ignazio Re and I am a 24 year-old student from Italy.
 
 
 <!-- Tech Stack -->
-## :wrench: Tech Stack
+## :wrench: Technical skills
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
