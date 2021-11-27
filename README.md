@@ -21,7 +21,7 @@ Credit goes to:
 -->
 
 <!-- Introduction -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+,+my+name+is+Francesco;Open-Source+Developer+Advocate;Data+Scientist;and+Lifelong+Learner!;Nice+to+meet+you...)](https://github.com/francescoignaziore/francescoignaziore/upload/main)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+,+my+name+is+Francesco;I+am+a+Data+Scientist+at+ETH+Zürich;Nice+to+meet+you...)](https://github.com/francescoignaziore/francescoignaziore/upload/main)
 
 ![](https://github.com/francescoignaziore/francescoignaziore/blob/main/mascotte.png)
 
