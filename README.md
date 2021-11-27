@@ -1,6 +1,3 @@
-<!-- Greeting -->
-### Greetings, I'm Kyle! 👋
-
 <!--
 **korkridake/korkridake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +23,7 @@ Credit goes to:
 <!-- Introduction -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Global+Cloud+Solution+Architect;Open-Source+Developer+Advocate;Data+Scientist;and+Lifelong+Learner!;Nice+to+meet+you...)](https://github.com/francescoignaziore/francescoignaziore/upload/main)
 
-![](https://github.com/francescoignaziore/francescoignaziore/blob/main/mascotte.png)
+![](https://github.com/francescoignaziore/francescoignaziore/blob/main/mascotte.png=100x250)
 
 I, as a global cloud solution architect at Microsoft, am responsible for helping strategic customers and partners with Digital Transformation, Business Intelligence, Azure, Open Source, and Data Intelligence & Analytics etc. I am a trusted advisor to top Azure customers and help empower them to achieve more. 
 
