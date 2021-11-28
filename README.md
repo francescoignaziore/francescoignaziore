@@ -3,7 +3,6 @@
 <!-- Introduction -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+,+my+name+is+Francesco;I+am+a+DataScience+student+at+ETHZurich+.+.+.;Nice+to+meet+you...)](https://github.com/francescoignaziore/francescoignaziore/upload/main)
 
-![](https://github.com/francescoignaziore/francescoignaziore/blob/main/mascotte1.png)
 
 My name is Francesco Ignazio Re and I am a 24 year-old student from Italy.
 
@@ -15,6 +14,7 @@ My name is Francesco Ignazio Re and I am a 24 year-old student from Italy.
 * Projects on natural language processing , from event detection to sentiment analysis.
 * Some of my previous works related to inferential statistics and generalized linear models.
 * University assignments, programming tasks and their deliverables.
+![](https://github.com/francescoignaziore/francescoignaziore/blob/main/mascotte1.png)
 
 
 <!-- Tech Stack -->
