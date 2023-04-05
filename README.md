@@ -6,7 +6,7 @@
 
 My name is Francesco Ignazio Re and I am a 24 year-old student from Italy.
 
-- 🌱 I am currently attending a master degree in Data Science at ETH Zürich. This semester I am focusing on learning more about computer vision and probabilistic artifical intelligence.
+- 🌱 I am currently at the end of my master degree in Data Science at ETH Zürich.
 - 😄 Pronouns: He\him
 
 ⚡ On my github profile you will find:
