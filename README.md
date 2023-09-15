@@ -4,14 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+,+my+name+is+Francesco;I+am+a+DataScience+student+at+ETHZurich+.+.+.;Nice+to+meet+you...)](https://github.com/francescoignaziore/francescoignaziore/upload/main)
 
 
-My name is Francesco Ignazio Re and I am a 24 year-old student from Italy.
+My name is Francesco Ignazio Re and I am a  data scientist.
 
-- 🌱 I am currently at the end of my master degree in Data Science at ETH Zürich.
+- 🌱 I have a master degree in Data Science at ETH Zürich.
 - 😄 Pronouns: He\him
 
 ⚡ On my github profile you will find:
 
-* Projects on natural language processing , from event detection to sentiment analysis.
+* Projects on natural language processing , from event detection to sentiment analysis & some web-apps.
 * Some of my previous works related to inferential statistics and generalized linear models.
 * University assignments, programming tasks and their deliverables.
 ![](https://github.com/francescoignaziore/francescoignaziore/blob/main/mascotte2.png)
